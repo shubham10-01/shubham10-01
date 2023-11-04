@@ -1,7 +1,4 @@
-Hi 👋, I'm Shubham
-A passionate Software Engineer from India
-
-- 🌱 I’m currently learning **Java, ReactJS**
-
-- 📫 How to reach me **shubhamgoswami5439@gmail.com**
-
+- 👋 Hi, I’m  Shubham
+- I'm not a great programmer; I'm just a good programmer with great habits.
+- 🌱 I’m currently learning C++
+- 📫 How to reach me - shubhamgoswami5439@gmail.com
